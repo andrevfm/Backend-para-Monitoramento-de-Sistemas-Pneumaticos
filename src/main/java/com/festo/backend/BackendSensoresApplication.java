@@ -10,4 +10,3 @@ public class BackendSensoresApplication {
         SpringApplication.run(BackendSensoresApplication.class, args);
     }
 }
-

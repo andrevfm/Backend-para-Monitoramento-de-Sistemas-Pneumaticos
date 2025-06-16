@@ -1,19 +1,13 @@
 package com.festo.backend.model;
 
-import java.time.LocalDateTime;
-
-import com.fasterxml.jackson.annotation.JsonFormat;
-
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
+import jakarta.persistence.*;
 import lombok.Data;
 
-@Data
+import java.time.LocalDateTime;
+
 @Entity
 @Table(name = "readings")
+@Data
 public class Reading {
 
     @Id
@@ -22,8 +16,7 @@ public class Reading {
 
     private String sensorId;
 
-    private Double value;
+    private Double sensorValue;  // Nome atualizado (não é mais "value")
 
-    @JsonFormat(pattern = "yyyy-MM-dd'T'HH:mm:ss")
     private LocalDateTime timestamp;
 }

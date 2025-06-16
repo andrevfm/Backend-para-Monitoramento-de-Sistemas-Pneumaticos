@@ -1,0 +1,6 @@
+com\festo\backend\model\Reading.class
+com\festo\backend\repository\ReadingRepository.class
+com\festo\backend\service\ReadingService.class
+com\festo\backend\config\DataInitializer.class
+com\festo\backend\controller\ReadingController.class
+com\festo\backend\BackendSensoresApplication.class

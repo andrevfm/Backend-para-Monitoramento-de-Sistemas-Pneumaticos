@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-@CrossOrigin(origins = "*")  // Libera requisições de qualquer origem
+@CrossOrigin(origins = "*")
 @RestController
 @RequestMapping("/api/readings")
 public class ReadingController {
