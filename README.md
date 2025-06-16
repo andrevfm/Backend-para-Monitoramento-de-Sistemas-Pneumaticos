@@ -1,10 +1,9 @@
 # 3ECR:
 
-André Victor Facundes de Melo - 97873
-Erick Rios Sousa - 552251
-Gustavo Moraes Marrano - 551557
-Renan Henrique de Oliveira Sousa - 552316
-Pedro Lazzarini Bittencourt de Freitas - 551267
+André Victor Facundes de Melo - 97873;
+Erick Rios Sousa - 552251;
+Renan Henrique de Oliveira Sousa - 552316;
+Pedro Lazzarini Bittencourt de Freitas - 551267.
 
 # Comandos para rodar:
 
