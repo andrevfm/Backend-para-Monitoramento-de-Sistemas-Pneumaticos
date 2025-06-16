@@ -1,0 +1,6 @@
+C:\Users\facun\Downloads\FIAP 2025\Sprint 2\API-para-Monitoramento-de-Sistemas-Pneumaticos\src\main\java\com\festo\backend\BackendSensoresApplication.java
+C:\Users\facun\Downloads\FIAP 2025\Sprint 2\API-para-Monitoramento-de-Sistemas-Pneumaticos\src\main\java\com\festo\backend\config\DataInitializer.java
+C:\Users\facun\Downloads\FIAP 2025\Sprint 2\API-para-Monitoramento-de-Sistemas-Pneumaticos\src\main\java\com\festo\backend\controller\ReadingController.java
+C:\Users\facun\Downloads\FIAP 2025\Sprint 2\API-para-Monitoramento-de-Sistemas-Pneumaticos\src\main\java\com\festo\backend\model\Reading.java
+C:\Users\facun\Downloads\FIAP 2025\Sprint 2\API-para-Monitoramento-de-Sistemas-Pneumaticos\src\main\java\com\festo\backend\repository\ReadingRepository.java
+C:\Users\facun\Downloads\FIAP 2025\Sprint 2\API-para-Monitoramento-de-Sistemas-Pneumaticos\src\main\java\com\festo\backend\service\ReadingService.java
